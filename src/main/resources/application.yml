@@ -8,7 +8,6 @@ spring:
     username: root
     password: 0482398351
 
-
   # JPA configuration
   jpa:
     show-sql: true
